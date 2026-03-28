@@ -1,1 +1,1 @@
-# Groceries Lists
+# Grocery Lists
